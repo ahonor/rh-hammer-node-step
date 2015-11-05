@@ -1,0 +1,18 @@
+[
+{"name":"create: Create a host","value":"create"},
+{"name":"delete: Delete a host","value":"delete"},
+{"name":"delete-parameter: Delete parameter for a host.","value":"delete-parameter"},
+{"name":"facts: List all fact values","value":"facts"},
+{"name":"info: Show a host","value":"info"},
+{"name":"list: List all hosts","value":"list"},
+{"name":"puppet-classes: List all Puppet classes","value":"puppet-classes"},
+{"name":"puppetrun: Force a Puppet agent run on the host","value":"puppetrun"},
+{"name":"reboot: Reboot a host","value":"reboot"},
+{"name":"reports: List all reports","value":"reports"},
+{"name":"sc-params: List all smart class parameters","value":"sc-params"},
+{"name":"set-parameter: Create or update parameter for a host.","value":"set-parameter"},
+{"name":"start: Power a host on","value":"start"},
+{"name":"status: Get status of host","value":"status"},
+{"name":"stop: Power a host off","value":"stop"},
+{"name":"update: Update a host","value":"update"},
+]

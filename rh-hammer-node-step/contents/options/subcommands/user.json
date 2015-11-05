@@ -1,0 +1,9 @@
+[
+{"name":"add-role: Assign a user role","value":"add-role"},
+{"name":"create: Create a user","value":"create"},
+{"name":"delete: Delete a user","value":"delete"},
+{"name":"info: Show a user","value":"info"},
+{"name":"list: List all users","value":"list"},
+{"name":"remove-role: Remove a user role","value":"remove-role"},
+{"name":"update: Update a user","value":"update"},
+]

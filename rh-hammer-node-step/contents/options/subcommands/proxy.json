@@ -1,0 +1,9 @@
+[
+{"name":"create: Create a Capsule","value":"create"},
+{"name":"delete: Delete a Capsule","value":"delete"},
+{"name":"import-classes: Import puppet classes from puppet proxy.","value":"import-classes"},
+{"name":"info: Show a Capsule","value":"info"},
+{"name":"list: List all smart proxies","value":"list"},
+{"name":"refresh-features: Refresh Capsule features","value":"refresh-features"},
+{"name":"update: Update a Capsule","value":"update"},
+]

@@ -1,0 +1,66 @@
+name: Redhat Satellite Hammer Command
+rundeckPluginVersion: 1.0
+author: Alex Honor
+date: 11/05/2015
+version: 1.0
+providers:
+    - name: rh-hammer-step
+      service: WorkflowNodeStep
+      title: hammer command
+      description: Executes the hammer command via ssh to the remote node and executes command using pbrun.
+      plugin-type: script
+      script-interpreter: /bin/bash
+      script-file: exec.sh
+      script-args: ${node.username} ${node.hostname} ${exec.command}
+      config:
+        - name: hammer command
+          title: command
+          type: String
+          required: true
+          description: the hammer command to use
+          default: ${option.command}
+        - name: hammer_subcmd
+          title: subcommand
+          type: String
+          required: true
+          description: the hammer sub command to use
+          default: ${option.subcommand}
+        - name: hammer_subcmd_args
+          title: subcommand arguments
+          type: String
+          required: false
+          description: the hammer sub command arguments (optional)
+        - name: hammer_user
+          title: hammer user
+          type: String
+          required: true
+          description: the username to authenticate to hammer
+          scope: Project
+          default: satellite
+        - name: hammer_password
+          title: hammer password
+          type: String
+          required: true
+          description: the password to authenticate to hammer
+          renderingOptions:
+            displayType: PASSWORD
+          scope: Project
+          default: NONE
+        - name: ssh_user
+          title: SSH user account
+          type: String
+          required: true
+          description: service account to use for remote ssh connection to satellite server.
+          scope: Project
+          default: satellite
+        - name: ssh_key_storage_path
+          title: SSH key storage path
+          type: String
+          required: false
+          description: "Storage path for ssh-key file. Can contain property references to node attributes. A node attribute named ssh-key-storage-path will override this value."
+          scope: Project
+          renderingOptions:
+            selectionAccessor: "STORAGE_PATH"
+            valueConversion: "STORAGE_PATH_AUTOMATIC_READ"
+            storage-path-root: "keys"
+            instance-scope-node-attribute: "ssh-key-storage-path"

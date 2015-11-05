@@ -1,0 +1,7 @@
+[
+{"name":"create: Create a discovery rule","value":"create"},
+{"name":"delete: Delete a rule","value":"delete"},
+{"name":"info: Show a discovery rule","value":"info"},
+{"name":"list: List all discovery rules","value":"list"},
+{"name":"update: Update a rule","value":"update"},
+]

@@ -1,0 +1,6 @@
+[
+{"name":"container: Manage docker containers","value":"container"},
+{"name":"image: Manage docker images","value":"image"},
+{"name":"registry: Manage docker registries","value":"registry"},
+{"name":"tag: Manage docker tags","value":"tag"},
+]

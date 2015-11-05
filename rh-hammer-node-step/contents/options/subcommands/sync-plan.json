@@ -1,0 +1,7 @@
+[
+{"name":"create: Create a sync plan","value":"create"},
+{"name":"delete: Destroy a sync plan","value":"delete"},
+{"name":"info: Show a sync plan","value":"info"},
+{"name":"list: List sync plans","value":"list"},
+{"name":"update: Update a sync plan","value":"update"},
+]

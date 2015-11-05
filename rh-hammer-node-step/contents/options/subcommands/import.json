@@ -1,0 +1,13 @@
+[
+{"name":"activation-key: Import Activation Keys (from spacewalk-report activation-keys).","value":"activation-key"},
+{"name":"all: Load ALL data from a specified directory that is in spacewalk-export format.","value":"all"},
+{"name":"config-file: Create puppet-modules from Configuration Channel content (from spacewalk-report config-files-latest).","value":"config-file"},
+{"name":"content-host: Import Content Hosts (from spacewalk-report system-profiles).","value":"content-host"},
+{"name":"content-view: Create Content Views based on local/cloned Channels (from spacewalk-export-channels).","value":"content-view"},
+{"name":"host-collection: Import Host Collections (from spacewalk-report system-groups).","value":"host-collection"},
+{"name":"organization: Import Organizations (from spacewalk-report users).","value":"organization"},
+{"name":"repository: Import repositories (from spacewalk-report repositories).","value":"repository"},
+{"name":"repository-enable: Enable any Red Hat repositories accessible to any Organization (from spacewalk-report channels).","value":"repository-enable"},
+{"name":"template-snippet: Import template snippets (from spacewalk-report kickstart-scripts).","value":"template-snippet"},
+{"name":"user: Import Users (from spacewalk-report users).","value":"user"},
+]

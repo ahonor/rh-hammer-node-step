@@ -1,0 +1,9 @@
+[
+{"name":"add-operatingsystem: Associate an operating system","value":"add-operatingsystem"},
+{"name":"create: Create an architecture","value":"create"},
+{"name":"delete: Delete an architecture","value":"delete"},
+{"name":"info: Show an architecture","value":"info"},
+{"name":"list: List all architectures","value":"list"},
+{"name":"remove-operatingsystem: Disassociate an operating system","value":"remove-operatingsystem"},
+{"name":"update: Update an architecture","value":"update"},
+]

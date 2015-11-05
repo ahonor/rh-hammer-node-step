@@ -1,0 +1,5 @@
+[
+{"name":"delete: Delete a global parameter","value":"delete"},
+{"name":"list: List all global parameters.","value":"list"},
+{"name":"set: Set a global parameter.","value":"set"},
+]

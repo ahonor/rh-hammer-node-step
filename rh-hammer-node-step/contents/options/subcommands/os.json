@@ -1,0 +1,17 @@
+[
+{"name":"add-architecture: Associate an architecture","value":"add-architecture"},
+{"name":"add-config-template: Associate a configuration template","value":"add-config-template"},
+{"name":"add-ptable: Associate a partition table","value":"add-ptable"},
+{"name":"create: Create an operating system","value":"create"},
+{"name":"delete: Delete an operating system","value":"delete"},
+{"name":"delete-default-template: ","value":"delete-default-template"},
+{"name":"delete-parameter: Delete parameter for an operating system.","value":"delete-parameter"},
+{"name":"info: Show an operating system","value":"info"},
+{"name":"list: List all operating systems","value":"list"},
+{"name":"remove-architecture: Disassociate an architecture","value":"remove-architecture"},
+{"name":"remove-config-template: Disassociate a configuration template","value":"remove-config-template"},
+{"name":"remove-ptable: Disassociate a partition table","value":"remove-ptable"},
+{"name":"set-default-template: ","value":"set-default-template"},
+{"name":"set-parameter: Create or update parameter for an operating system.","value":"set-parameter"},
+{"name":"update: Update an operating system","value":"update"},
+]

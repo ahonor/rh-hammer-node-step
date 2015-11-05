@@ -1,0 +1,5 @@
+[
+{"name":"content-host-status: Show the latest subscription status for a list of content hosts","value":"content-host-status"},
+{"name":"content-host-trend: Show a listing of all subscription status snapshots","value":"content-host-trend"},
+{"name":"status-trend: Show the per-day counts of content-hosts","value":"status-trend"},
+]

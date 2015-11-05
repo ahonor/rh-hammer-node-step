@@ -1,0 +1,5 @@
+[
+{"name":"list: List tasks","value":"list"},
+{"name":"progress: Show the progress of the task","value":"progress"},
+{"name":"resume: Resume all tasks paused in error state","value":"resume"},
+]

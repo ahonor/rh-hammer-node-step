@@ -1,0 +1,9 @@
+[
+{"name":"available-permissions: List all permissions","value":"available-permissions"},
+{"name":"available-resources: List available resource types.","value":"available-resources"},
+{"name":"create: Create a filter","value":"create"},
+{"name":"delete: Delete a filter","value":"delete"},
+{"name":"info: Show a filter","value":"info"},
+{"name":"list: List all filters","value":"list"},
+{"name":"update: Update a filter","value":"update"},
+]

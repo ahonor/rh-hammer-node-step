@@ -1,0 +1,5 @@
+[
+{"name":"delete: Delete a report","value":"delete"},
+{"name":"info: Show a report","value":"info"},
+{"name":"list: List all reports","value":"list"},
+]

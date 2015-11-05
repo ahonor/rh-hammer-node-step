@@ -1,0 +1,7 @@
+[
+{"name":"create: Create a hardware model","value":"create"},
+{"name":"delete: Delete a hardware model","value":"delete"},
+{"name":"info: Show a hardware model","value":"info"},
+{"name":"list: List all hardware models","value":"list"},
+{"name":"update: Update a hardware model","value":"update"},
+]

@@ -1,0 +1,8 @@
+[
+{"name":"create: Create a compute resource","value":"create"},
+{"name":"delete: Delete a compute resource","value":"delete"},
+{"name":"image: View and manage compute resource's images","value":"image"},
+{"name":"info: Show a compute resource","value":"info"},
+{"name":"list: List all compute resources","value":"list"},
+{"name":"update: Update a compute resource","value":"update"},
+]

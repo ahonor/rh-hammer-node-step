@@ -1,0 +1,10 @@
+[
+{"name":"create: Create a product","value":"create"},
+{"name":"delete: Destroy a product","value":"delete"},
+{"name":"info: Show a product","value":"info"},
+{"name":"list: List products","value":"list"},
+{"name":"remove-sync-plan: Delete assignment sync plan and product.","value":"remove-sync-plan"},
+{"name":"set-sync-plan: Assign sync plan to product.","value":"set-sync-plan"},
+{"name":"synchronize: Sync a repository","value":"synchronize"},
+{"name":"update: Updates a product","value":"update"},
+]

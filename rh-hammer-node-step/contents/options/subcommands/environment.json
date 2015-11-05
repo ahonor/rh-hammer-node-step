@@ -1,0 +1,8 @@
+[
+{"name":"create: Create an environment","value":"create"},
+{"name":"delete: Delete an environment","value":"delete"},
+{"name":"info: Show an environment","value":"info"},
+{"name":"list: List all environments","value":"list"},
+{"name":"sc-params: List all smart class parameters","value":"sc-params"},
+{"name":"update: Update an environment","value":"update"},
+]

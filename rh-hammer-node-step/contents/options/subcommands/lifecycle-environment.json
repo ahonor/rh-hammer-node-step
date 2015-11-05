@@ -1,0 +1,8 @@
+[
+{"name":"create: Create an environment","value":"create"},
+{"name":"delete: Destroy an environment","value":"delete"},
+{"name":"info: Show an environment","value":"info"},
+{"name":"list: List environments in an organization","value":"list"},
+{"name":"paths: List environment paths","value":"paths"},
+{"name":"update: Update an environment","value":"update"},
+]

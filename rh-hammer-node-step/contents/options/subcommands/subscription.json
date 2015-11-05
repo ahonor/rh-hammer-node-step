@@ -1,0 +1,7 @@
+[
+{"name":"delete-manifest: Delete manifest from Red Hat provider","value":"delete-manifest"},
+{"name":"list: List organization subscriptions","value":"list"},
+{"name":"manifest-history: obtain manifest history for subscriptions","value":"manifest-history"},
+{"name":"refresh-manifest: Refresh previously imported manifest for Red Hat provider","value":"refresh-manifest"},
+{"name":"upload: Upload a subscription manifest","value":"upload"},
+]

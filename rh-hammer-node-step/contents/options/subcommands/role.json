@@ -1,0 +1,7 @@
+[
+{"name":"create: Create a role","value":"create"},
+{"name":"delete: Delete a role","value":"delete"},
+{"name":"filters: List all filters","value":"filters"},
+{"name":"list: List all roles","value":"list"},
+{"name":"update: Update a role","value":"update"},
+]

@@ -1,0 +1,5 @@
+[
+{"name":"info: Show a smart class parameter","value":"info"},
+{"name":"list: List all smart class parameters","value":"list"},
+{"name":"update: Update a smart class parameter","value":"update"},
+]

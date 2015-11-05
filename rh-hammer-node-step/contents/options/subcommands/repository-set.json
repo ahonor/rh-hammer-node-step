@@ -1,0 +1,7 @@
+[
+{"name":"available-repositories: Get list or available repositories for the repository set","value":"available-repositories"},
+{"name":"disable: Disable a repository form the set","value":"disable"},
+{"name":"enable: Enable a repository from the set","value":"enable"},
+{"name":"info: Get info about a repository set","value":"info"},
+{"name":"list: List repository sets for a product.","value":"list"},
+]

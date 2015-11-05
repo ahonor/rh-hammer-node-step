@@ -1,0 +1,7 @@
+[
+{"name":"create: Create a gpg key","value":"create"},
+{"name":"delete: Destroy a gpg key","value":"delete"},
+{"name":"info: Show a gpg key","value":"info"},
+{"name":"list: List gpg keys","value":"list"},
+{"name":"update: Update a repository","value":"update"},
+]

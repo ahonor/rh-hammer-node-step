@@ -1,0 +1,11 @@
+[
+{"name":"create: Register a content host","value":"create"},
+{"name":"delete: Unregister a content host","value":"delete"},
+{"name":"errata: Manage errata on your content hosts","value":"errata"},
+{"name":"info: Show a content host","value":"info"},
+{"name":"list: List content hosts","value":"list"},
+{"name":"package: Manage packages on your content hosts","value":"package"},
+{"name":"package-group: Manage package-groups on your content hosts","value":"package-group"},
+{"name":"tasks: ","value":"tasks"},
+{"name":"update: Update content host information","value":"update"},
+]

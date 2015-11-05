@@ -1,0 +1,10 @@
+[
+{"name":"create: Create a custom repository","value":"create"},
+{"name":"delete: Destroy a custom repository","value":"delete"},
+{"name":"info: Show a custom repository","value":"info"},
+{"name":"list: List of enabled repositories","value":"list"},
+{"name":"remove-content: ","value":"remove-content"},
+{"name":"synchronize: Sync a repository","value":"synchronize"},
+{"name":"update: Update a custom repository","value":"update"},
+{"name":"upload-content: Upload content into the repository","value":"upload-content"},
+]

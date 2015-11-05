@@ -1,0 +1,9 @@
+[
+{"name":"create: Create a domain","value":"create"},
+{"name":"delete: Delete a domain","value":"delete"},
+{"name":"delete-parameter: Delete parameter for a domain.","value":"delete-parameter"},
+{"name":"info: Show a domain","value":"info"},
+{"name":"list: List of domains","value":"list"},
+{"name":"set-parameter: Create or update parameter for a domain.","value":"set-parameter"},
+{"name":"update: Update a domain","value":"update"},
+]

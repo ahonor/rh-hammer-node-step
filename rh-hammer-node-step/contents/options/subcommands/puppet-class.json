@@ -1,0 +1,5 @@
+[
+{"name":"info: Show a Puppet class","value":"info"},
+{"name":"list: List all Puppet classes","value":"list"},
+{"name":"sc-params: List all smart class parameters","value":"sc-params"},
+]

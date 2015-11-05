@@ -1,0 +1,7 @@
+[
+{"name":"create: Create a subnet","value":"create"},
+{"name":"delete: Delete a subnet","value":"delete"},
+{"name":"info: Show a subnet","value":"info"},
+{"name":"list: List of subnets","value":"list"},
+{"name":"update: Update a subnet","value":"update"},
+]

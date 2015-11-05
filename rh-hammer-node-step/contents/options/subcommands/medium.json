@@ -1,0 +1,9 @@
+[
+{"name":"add-operatingsystem: Associate an operating system","value":"add-operatingsystem"},
+{"name":"create: Create a medium","value":"create"},
+{"name":"delete: Delete a medium","value":"delete"},
+{"name":"info: Show a medium","value":"info"},
+{"name":"list: List all installation media","value":"list"},
+{"name":"remove-operatingsystem: Disassociate an operating system","value":"remove-operatingsystem"},
+{"name":"update: Update a medium","value":"update"},
+]

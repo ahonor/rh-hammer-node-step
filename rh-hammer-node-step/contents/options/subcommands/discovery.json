@@ -1,0 +1,10 @@
+[
+{"name":"auto-provision: Auto provision a host","value":"auto-provision"},
+{"name":"delete: Delete a discovered host","value":"delete"},
+{"name":"facts: Show a discovered host","value":"facts"},
+{"name":"info: Show a discovered host","value":"info"},
+{"name":"list: List all discovered hosts","value":"list"},
+{"name":"provision: Provision a discovered host","value":"provision"},
+{"name":"reboot: Reboot a host","value":"reboot"},
+{"name":"refresh-facts: Refresh the facts of a host","value":"refresh-facts"},
+]

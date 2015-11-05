@@ -1,0 +1,16 @@
+[
+{"name":"add-host-collection: Associate a resource","value":"add-host-collection"},
+{"name":"add-subscription: Add subscription","value":"add-subscription"},
+{"name":"content-override: Override product content defaults","value":"content-override"},
+{"name":"copy: Copy an activation key","value":"copy"},
+{"name":"create: Create an activation key","value":"create"},
+{"name":"delete: Destroy an activation key","value":"delete"},
+{"name":"host-collections: List associated host collections","value":"host-collections"},
+{"name":"info: Show an activation key","value":"info"},
+{"name":"list: List activation keys","value":"list"},
+{"name":"product-content: List associated products","value":"product-content"},
+{"name":"remove-host-collection: Disassociate a resource","value":"remove-host-collection"},
+{"name":"remove-subscription: Remove subscription","value":"remove-subscription"},
+{"name":"subscriptions: List associated subscriptions","value":"subscriptions"},
+{"name":"update: Update an activation key","value":"update"},
+]

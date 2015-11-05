@@ -1,0 +1,17 @@
+[
+{"name":"add-repository: Associate a resource","value":"add-repository"},
+{"name":"add-version: Update a content view","value":"add-version"},
+{"name":"create: Create a content view","value":"create"},
+{"name":"delete: Delete a content view","value":"delete"},
+{"name":"filter: View and manage filters","value":"filter"},
+{"name":"info: Show a content view","value":"info"},
+{"name":"list: List content views","value":"list"},
+{"name":"publish: Publish a content view","value":"publish"},
+{"name":"puppet-module: View and manage puppet modules","value":"puppet-module"},
+{"name":"remove: Remove versions and/or environments from a content view and reassign systems and keys","value":"remove"},
+{"name":"remove-from-environment: Remove a content view from an environment","value":"remove-from-environment"},
+{"name":"remove-repository: Disassociate a resource","value":"remove-repository"},
+{"name":"remove-version: Update a content view","value":"remove-version"},
+{"name":"update: Update a content view","value":"update"},
+{"name":"version: View and manage content view versions","value":"version"},
+]

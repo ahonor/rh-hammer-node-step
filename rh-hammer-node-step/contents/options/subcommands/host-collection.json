@@ -1,0 +1,14 @@
+[
+{"name":"add-content-host: Add content host to the host collection","value":"add-content-host"},
+{"name":"content-hosts: List content hosts in the host collection","value":"content-hosts"},
+{"name":"copy: Make copy of a host collection","value":"copy"},
+{"name":"create: Create a host collection","value":"create"},
+{"name":"delete: Destroy a host collection","value":"delete"},
+{"name":"erratum: Manipulate errata for a host collection","value":"erratum"},
+{"name":"info: Show a host collection","value":"info"},
+{"name":"list: List host collections","value":"list"},
+{"name":"package: Manipulate packages for a host collection","value":"package"},
+{"name":"package-group: Manipulate package-groups for a host collection","value":"package-group"},
+{"name":"remove-content-host: Remove content hosts from the host collection","value":"remove-content-host"},
+{"name":"update: Update a host collection","value":"update"},
+]

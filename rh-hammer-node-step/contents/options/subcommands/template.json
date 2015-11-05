@@ -1,0 +1,11 @@
+[
+{"name":"add-operatingsystem: Associate an operating system","value":"add-operatingsystem"},
+{"name":"create: Create a provisioning template","value":"create"},
+{"name":"delete: Delete a provisioning template","value":"delete"},
+{"name":"dump: View config template content.","value":"dump"},
+{"name":"info: Show provisioning template details","value":"info"},
+{"name":"kinds: List available config template kinds.","value":"kinds"},
+{"name":"list: List provisioning templates","value":"list"},
+{"name":"remove-operatingsystem: Disassociate an operating system","value":"remove-operatingsystem"},
+{"name":"update: Update a provisioning template","value":"update"},
+]

@@ -1,0 +1,5 @@
+[
+{"name":"content: Manage the capsule content","value":"content"},
+{"name":"info: Show the capsule details","value":"info"},
+{"name":"list: List all capsules","value":"list"},
+]

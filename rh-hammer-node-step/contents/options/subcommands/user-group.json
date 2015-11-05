@@ -1,0 +1,14 @@
+[
+{"name":"add-role: Assign a user role","value":"add-role"},
+{"name":"add-user: Associate an user","value":"add-user"},
+{"name":"add-user-group: Associate an user group","value":"add-user-group"},
+{"name":"create: Create a user group","value":"create"},
+{"name":"delete: Delete a user group","value":"delete"},
+{"name":"external: View and manage user group's external user groups","value":"external"},
+{"name":"info: Show a user group","value":"info"},
+{"name":"list: List all user groups","value":"list"},
+{"name":"remove-role: Remove a user role","value":"remove-role"},
+{"name":"remove-user: Disassociate an user","value":"remove-user"},
+{"name":"remove-user-group: Disassociate an user group","value":"remove-user-group"},
+{"name":"update: Update a user group","value":"update"},
+]

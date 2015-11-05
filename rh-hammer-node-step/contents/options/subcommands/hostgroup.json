@@ -1,0 +1,11 @@
+[
+{"name":"create: Create a host group","value":"create"},
+{"name":"delete: Delete a host group","value":"delete"},
+{"name":"delete-parameter: Delete parameter for a hostgroup.","value":"delete-parameter"},
+{"name":"info: Show a host group","value":"info"},
+{"name":"list: List all host groups","value":"list"},
+{"name":"puppet-classes: List all Puppet classes","value":"puppet-classes"},
+{"name":"sc-params: List all smart class parameters","value":"sc-params"},
+{"name":"set-parameter: Create or update parameter for a hostgroup.","value":"set-parameter"},
+{"name":"update: Update a host group","value":"update"},
+]
